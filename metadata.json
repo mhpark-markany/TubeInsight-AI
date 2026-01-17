@@ -1,0 +1,5 @@
+{
+  "name": "TubeInsight AI",
+  "description": "Intelligent YouTube video summarizer and channel analyzer powered by Gemini. Get concise summaries, metadata insights, and channel performance comparisons instantly.",
+  "requestFramePermissions": []
+}
